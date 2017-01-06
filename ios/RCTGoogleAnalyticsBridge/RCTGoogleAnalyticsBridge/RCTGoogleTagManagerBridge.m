@@ -1,4 +1,4 @@
-#import "RCTGoogleTagManagerBridge.h"
+#import <React/RCTGoogleTagManagerBridge.h>
 #import "TAGContainer.h"
 #import "TagContainerOpener.h"
 #import "TAGDataLayer.h"
