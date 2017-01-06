@@ -1,4 +1,4 @@
-#import <React/RCTGoogleAnalyticsBridge.h>
+#import "RCTGoogleAnalyticsBridge.h"
 #import <React/RCTLog.h>
 #import <React/RCTConvert.h>
 #import "GAI.h"
